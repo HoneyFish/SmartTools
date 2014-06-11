@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+	<plugin name="I2C Test">
+		<class name="com.nj.simba.I2CTest"/>
+	</plugin>
+	<plugin name="APK Analyzer">
+		<class name="com.nj.simba.ApkAnalyzer"/>
+	</plugin>
+</plugins>
