@@ -3,17 +3,19 @@ package com.nj.simba.app;
 import java.awt.CardLayout;
 import java.awt.Color;
 import java.io.File;
+
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
+
 import com.android.ddmlib.IDevice;
 import com.nj.simba.ctrls.MyProgessBar;
-import com.nj.simba.logcat.PageLogcat;
 import com.nj.simba.page.appmgr.PageAppMgr;
 import com.nj.simba.page.device.DevicePanel;
 import com.nj.simba.page.device.PageMyDevice;
 import com.nj.simba.page.filer.PageFiler;
+import com.nj.simba.page.logcat.PageLogcat;
 import com.nj.simba.utils.Config;
 import com.nj.simba.utils.I2CTest;
 import com.nj.simba.utils.Utils;
