@@ -1,4 +1,4 @@
-package com.nj.simba.logcat;
+package com.nj.simba.page.logcat;
 
 import java.awt.Color;
 import java.awt.event.ActionEvent;

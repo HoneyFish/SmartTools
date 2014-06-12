@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.nj.simba.logcat;
+package com.nj.simba.page.logcat;
 
 import com.android.ddmlib.IDevice;
 import com.android.ddmlib.IShellOutputReceiver;
